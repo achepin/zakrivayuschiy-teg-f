@@ -13,6 +13,11 @@
 @font-face {
   font-family: 'PressStart2P';
   src: url(./PressStart2P-Regular.woff) format('woff');
+  font-weight: bold;
   font-display: swap;
+}
+
+.bold-text {
+  font-family: 'PressStart2P';
   font-weight: 785;
 }
