@@ -294,15 +294,15 @@
   }
 
   .header {
-    padding-block-start: 120px;		        
+    padding-block-start: 120px;
     padding-block-end: 120px;
   }
 
-  .header__title {
+  .header__title {
     line-height: 64px;
   }
 
-  .header__logo {
+  .header__logo {
     gap: 13px;
   }
 
@@ -329,5 +329,5 @@
 
   .dialog[open] {
     margin-block-end: 240px;
-}
+  }
 }
