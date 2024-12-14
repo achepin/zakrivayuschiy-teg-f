@@ -329,5 +329,6 @@
 
   .dialog[open] {
     margin-block-end: 240px;
+    padding: 30px 42px;
   }
 }
